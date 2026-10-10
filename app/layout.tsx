@@ -10,6 +10,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="2694166a1c6839ca" />
         <title>Beef Casino официальный сайт — играть онлайн, зеркало Биф Казино, бонус 250%+600FS</title>
         <meta
           name="description"
